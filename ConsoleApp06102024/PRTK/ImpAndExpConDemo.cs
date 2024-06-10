@@ -22,7 +22,7 @@ namespace ConsoleApp06102024.PRTK
         }
     }
 
-    public class TestClass
+    public class TestImplicitandExplicit
     {
         static void Main()
         {
