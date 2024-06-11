@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AccessDemo1
+namespace AccessDemo2
 {
-    internal class Program
+    internal class Demo2
     {
         static void Main(string[] args)
         {
