@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AccessDemo1
+namespace VariableType
 {
     internal class Program
     {
