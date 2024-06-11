@@ -1,7 +1,0 @@
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\bin\Debug\ConsoleApp06112024.exe.config
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\bin\Debug\ConsoleApp06112024.exe
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\bin\Debug\ConsoleApp06112024.pdb
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\obj\Debug\ConsoleApp06112024.csproj.AssemblyReference.cache
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\obj\Debug\ConsoleApp06112024.csproj.CoreCompileInputs.cache
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\obj\Debug\ConsoleApp06112024.exe
-C:\Test Projects\Ready To Git\Csharp_Demo_Repo\ConsoleApp06112024\obj\Debug\ConsoleApp06112024.pdb
