@@ -1,0 +1,7 @@
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\bin\Debug\VariableType.exe.config
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\bin\Debug\VariableType.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\bin\Debug\VariableType.pdb
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\obj\Debug\VariableType.csproj.AssemblyReference.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\obj\Debug\VariableType.csproj.CoreCompileInputs.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\obj\Debug\VariableType.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\VariableType\obj\Debug\VariableType.pdb
