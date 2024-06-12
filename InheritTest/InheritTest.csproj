@@ -49,6 +49,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PRTK\Child.cs" />
+    <Compile Include="PRTK\Jewellery\BaseClass.cs" />
+    <Compile Include="PRTK\Jewellery\Customer.cs" />
+    <Compile Include="PRTK\Jewellery\JewellwerClass.cs" />
+    <Compile Include="PRTK\Jewellery\Manager.cs" />
+    <Compile Include="PRTK\Jewellery\NonCommercialStaff.cs" />
+    <Compile Include="PRTK\Jewellery\SaleEx.cs" />
     <Compile Include="PRTK\Parent.cs" />
     <Compile Include="PRTK\Test2\Child2.cs" />
     <Compile Include="PRTK\Test2\Parent2.cs" />
