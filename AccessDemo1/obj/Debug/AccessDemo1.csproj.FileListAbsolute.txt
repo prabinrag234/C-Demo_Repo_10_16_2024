@@ -1,0 +1,7 @@
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\bin\Debug\AccessDemo1.exe.config
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\bin\Debug\AccessDemo1.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\bin\Debug\AccessDemo1.pdb
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\obj\Debug\AccessDemo1.csproj.AssemblyReference.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\obj\Debug\AccessDemo1.csproj.CoreCompileInputs.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\obj\Debug\AccessDemo1.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\AccessDemo1\obj\Debug\AccessDemo1.pdb
