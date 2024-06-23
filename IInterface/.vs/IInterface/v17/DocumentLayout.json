@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\iinterface\\prtk\\testmul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\testmul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\iinterface\\prtk\\imul1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\imul1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\iinterface\\prtk\\imul2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\imul2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\prtk\\useclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\useclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\prtk\\interfaceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\interfaceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\prtk\\iinterfacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\iinterfacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IInterface||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\iinterface\\prtk\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:prtk\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}|IInterface.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\iinterface\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testmul.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Testmul.cs",
+              "RelativeDocumentMoniker": "PRTK\\Testmul.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Testmul.cs",
+              "RelativeToolTip": "PRTK\\Testmul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:29:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imul2.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Imul2.cs",
+              "RelativeDocumentMoniker": "PRTK\\Imul2.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Imul2.cs",
+              "RelativeToolTip": "PRTK\\Imul2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:29:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imul1.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Imul1.cs",
+              "RelativeDocumentMoniker": "PRTK\\Imul1.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Imul1.cs",
+              "RelativeToolTip": "PRTK\\Imul1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:28:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Interface1.cs",
+              "RelativeDocumentMoniker": "PRTK\\Interface1.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\Interface1.cs",
+              "RelativeToolTip": "PRTK\\Interface1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:43:11.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInterface",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\IInterface.csproj",
+              "RelativeDocumentMoniker": "IInterface.csproj",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\IInterface.csproj",
+              "RelativeToolTip": "IInterface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T07:13:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UseClass.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\UseClass.cs",
+              "RelativeDocumentMoniker": "PRTK\\UseClass.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\UseClass.cs",
+              "RelativeToolTip": "PRTK\\UseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:02:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceImplementation.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\InterfaceImplementation.cs",
+              "RelativeDocumentMoniker": "PRTK\\InterfaceImplementation.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\InterfaceImplementation.cs",
+              "RelativeToolTip": "PRTK\\InterfaceImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:02:12.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterfacetest.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\IInterfacetest.cs",
+              "RelativeDocumentMoniker": "PRTK\\IInterfacetest.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\PRTK\\IInterfacetest.cs",
+              "RelativeToolTip": "PRTK\\IInterfacetest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:01:10.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\IInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:00:01.187Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
