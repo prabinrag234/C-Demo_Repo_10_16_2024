@@ -3,8 +3,18 @@
   "WorkspaceRootPath": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF6EEEE2-7705-4A6E-8817-F0E9C3B45D9F}|Abstractmembers.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\abstractmembers\\prtk\\abstractmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6EEEE2-7705-4A6E-8817-F0E9C3B45D9F}|Abstractmembers.csproj|solutionrelative:prtk\\abstractmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Abstractmembers||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF6EEEE2-7705-4A6E-8817-F0E9C3B45D9F}|Abstractmembers.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\abstractmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF6EEEE2-7705-4A6E-8817-F0E9C3B45D9F}|Abstractmembers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6EEEE2-7705-4A6E-8817-F0E9C3B45D9F}|Abstractmembers.csproj|c:\\test projects\\ready to git\\csharp_demo_repo\\abstractmembers\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +40,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstractmembers",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\Abstractmembers.csproj",
+              "RelativeDocumentMoniker": "Abstractmembers.csproj",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\Abstractmembers.csproj",
+              "RelativeToolTip": "Abstractmembers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T18:24:57.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Abstractmember.cs",
+              "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\PRTK\\Abstractmember.cs",
+              "RelativeDocumentMoniker": "PRTK\\Abstractmember.cs",
+              "ToolTip": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\PRTK\\Abstractmember.cs",
+              "RelativeToolTip": "PRTK\\Abstractmember.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:03:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Test Projects\\Ready To Git\\Csharp_Demo_Repo\\Abstractmembers\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
