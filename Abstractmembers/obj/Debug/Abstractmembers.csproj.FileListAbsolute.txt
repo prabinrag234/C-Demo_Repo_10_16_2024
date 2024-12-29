@@ -1,0 +1,7 @@
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\bin\Debug\Abstractmembers.exe.config
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\bin\Debug\Abstractmembers.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\bin\Debug\Abstractmembers.pdb
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\obj\Debug\Abstractmembers.csproj.AssemblyReference.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\obj\Debug\Abstractmembers.csproj.CoreCompileInputs.cache
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\obj\Debug\Abstractmembers.exe
+C:\Test Projects\Ready To Git\Csharp_Demo_Repo\Abstractmembers\obj\Debug\Abstractmembers.pdb

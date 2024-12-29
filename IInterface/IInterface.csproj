@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66BBE804-C35A-4C58-9A67-C248006358E1}</ProjectGuid>
+    <ProjectGuid>{448CC0B1-F32C-4015-81BC-F2EEA8D9C26E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OperatorOverloading</RootNamespace>
-    <AssemblyName>OperatorOverloading</AssemblyName>
+    <RootNamespace>IInterface</RootNamespace>
+    <AssemblyName>IInterface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OperatorOverloading.PRTK._3x3Metrix</StartupObject>
+    <StartupObject>IInterface.PRTK.UseClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,8 +48,13 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PRTK\3x3Metrix.cs" />
-    <Compile Include="PRTK\OperatorOverloading.cs" />
+    <Compile Include="PRTK\IInterfacetest.cs" />
+    <Compile Include="PRTK\Imul1.cs" />
+    <Compile Include="PRTK\Imul2.cs" />
+    <Compile Include="PRTK\Interface1.cs" />
+    <Compile Include="PRTK\InterfaceImplementation.cs" />
+    <Compile Include="PRTK\Testmul.cs" />
+    <Compile Include="PRTK\UseClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
